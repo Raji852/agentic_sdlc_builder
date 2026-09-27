@@ -3,7 +3,7 @@
 ## What this is
 An agentic pipeline that transforms a natural-language requirement into a **generated, testable URL shortener** under human approval gates.
 
-## Why this matches the assignment
+## Project Details
 - Requirement understanding + ambiguity handling  
 - Task decomposition with dependencies  
 - Non-linear stateful orchestration (parallel Document/Security after Implement/Test)  
