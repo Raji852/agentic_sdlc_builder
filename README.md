@@ -88,7 +88,6 @@ python -m pipeline approve --run-id <RUN_ID> --approval release_approval
 
 ## Docs
 
-- Flow + execution guide: [`docs/flow-and-execution.html`](docs/flow-and-execution.html)
 - Engineering summary: [`ENGINEERING_SUMMARY.md`](ENGINEERING_SUMMARY.md)
 
 ## Principle
